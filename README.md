@@ -5,16 +5,16 @@ I'm a second year Computer Science undergraduate at the National University of S
 Current Project(s): [OneBoard](https://www.notion.so/OneBoard-de636bf19ff84cde83d7fff0104f2e7b) | Employment: [MonoX](https://monox.finance/) & [Alphaese](http://alphaese.com/)
 
 <p align="left">
-<a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=laughingkid-sg&show_icons=true&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=laughingkid-sg&layout=compact&langs_count=8"/>
+<a href="https://github.com/laughingkid-sg">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=laughingkid-sg&show_icons=true&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laughingkid-sg&layout=compact&langs_count=8"/>
 </a>
 </p>
 
 ## Languages & Technologies
 
 <p align="left">
-  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" title="c-sharp"><img src="svgs/c-sharp.svg" height="35" width="auto" /></a>
+  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" title="C-Sharp"><img src="svgs/c-sharp.svg" height="35" width="auto" /></a>
   &nbsp;
   <a href="https://www.java.com/en/" title="Java"><img src="svgs/java.svg" height="35" width="auto" /></a>
   &nbsp;
@@ -31,17 +31,26 @@ Current Project(s): [OneBoard](https://www.notion.so/OneBoard-de636bf19ff84cde83
 
 ## Contact
 <p align="left">
-  <a href="https://www.instagram.com/laughingkid_/" title="c-sharp"><img src="svgs/insta.svg" height="35" width="auto" /></a>
+  <a href="https://www.instagram.com/laughingkid_/" title="Instagram"><img src="svgs/insta.svg" height="35" width="auto" /></a>
   &nbsp;
   <a href="https://www.linkedin.com/in/gohzhengteck/" title="LinkedIn"><img src="svgs/linkedin.svg" height="35" width="auto" /></a>
   &nbsp;
-  <a href="https://zhengteck.me/" title="website"><img src="svgs/z.svg" height="35" width="auto" /></a>
+  <a href="https://zhengteck.me/" title="Website"><img src="svgs/z.svg" height="35" width="auto" /></a>
 </p>
 
-- Email: [NUS CS email](mailto:zhengt@comp.nus.edu.sg) | [Microsoft LSA email](mailto:zhengteck.goh@studentambassadors.com)
-
+Email: [NUS Computing (Main)](mailto:zhengt@comp.nus.edu.sg) | [Microsoft LSA](mailto:zhengteck.goh@studentambassadors.com)
+<!--
 ## Others
 - Crypto News Telegram Channel - [de-crypto-station](https://t.me/decryptostation)
+-->
+<!-- 
+
+##References
+
+Aditya Vikram Singh - https://github.com/AVS1508
+Zhu Hanming - https://github.com/zhuhanming
+
+-->
 
 <!--
 **laughingkid-sg/laughingkid-sg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
