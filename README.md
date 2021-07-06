@@ -1,6 +1,6 @@
 ## Hello there, Zheng Teck (Zen) here! 👋🏼
 
-I'm second year Computer Science undergraduate at the National University of Singapore, previously from Ngee Ann Polytechnic, Business IT. I am passionate about technology ranging from blockchain to fullstack development to devops. I am an aspiring entrepreneur and enjoy working on projects in my free time.
+I'm a second year Computer Science undergraduate at the National University of Singapore, previously from Ngee Ann Polytechnic, Business IT. I am passionate about technology ranging from blockchain to fullstack development to devops. I am an aspiring entrepreneur and enjoy working on projects in my free time.
 
 Current Project(s): [OneBoard](https://www.notion.so/OneBoard-de636bf19ff84cde83d7fff0104f2e7b) | Employment: [MonoX](https://monox.finance/) & [Alphaese](http://alphaese.com/)
 
@@ -34,13 +34,14 @@ Current Project(s): [OneBoard](https://www.notion.so/OneBoard-de636bf19ff84cde83
   <a href="https://www.instagram.com/laughingkid_/" title="c-sharp"><img src="svgs/insta.svg" height="35" width="auto" /></a>
   &nbsp;
   <a href="https://www.linkedin.com/in/gohzhengteck/" title="LinkedIn"><img src="svgs/linkedin.svg" height="35" width="auto" /></a>
+  &nbsp;
+  <a href="https://zhengteck.me/" title="website"><img src="svgs/z.svg" height="35" width="auto" /></a>
 </p>
 
-- [NUS CS email](mailto:zhengt@comp.nus.edu.sg) | [Microsoft LSA email](mailto:zhengteck.goh@studentambassadors.com)
-- [personal-site](https://zhengteck.me/)
+- Email: [NUS CS email](mailto:zhengt@comp.nus.edu.sg) | [Microsoft LSA email](mailto:zhengteck.goh@studentambassadors.com)
 
 ## Others
-- [de-crypto-station](https://t.me/decryptostation) - Crypto News Telegram Channel
+- Crypto News Telegram Channel - [de-crypto-station](https://t.me/decryptostation)
 
 <!--
 **laughingkid-sg/laughingkid-sg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
