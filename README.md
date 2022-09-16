@@ -1,8 +1,8 @@
 ## Hello there, Zheng Teck (Zen) here! 👋🏼
 
-I'm a second year Computer Science undergraduate at the National University of Singapore, previously from Ngee Ann Polytechnic, Business IT. I am passionate about technology ranging from blockchain to fullstack development to devops. I am an aspiring entrepreneur and enjoy working on projects in my free time.
+I'm a third year Computer Science undergraduate at the National University of Singapore, previously from Ngee Ann Polytechnic, Business IT. I am passionate about technology ranging from blockchain to fullstack development to devops. I am an aspiring entrepreneur and enjoy working on projects in my free time.
 
-Current Project(s): [OneBoard](https://www.notion.so/OneBoard-de636bf19ff84cde83d7fff0104f2e7b) | Employment: [MonoX](https://monox.finance/) & [Alphaese](http://alphaese.com/)
+Current Project(s): [KatoKato](http://katokato.app/), [NextStack](https://nextstack.com.sg/)
 
 <p align="left">
 <a href="https://github.com/laughingkid-sg">
@@ -18,13 +18,19 @@ Current Project(s): [OneBoard](https://www.notion.so/OneBoard-de636bf19ff84cde83
   &nbsp;
   <a href="https://www.java.com/en/" title="Java"><img src="svgs/java.svg" height="35" width="auto" /></a>
   &nbsp;
+  <a href="https://www.python.org/" title="Python"><img src="svgs/python.svg" height="35" width="auto" /></a>
+  &nbsp;
   <a href="https://reactjs.org" title="React"><img src="svgs/react.svg" height="35" width="auto" /></a>
   &nbsp;
   <a href="https://www.javascript.com/" title="Javascript"><img src="svgs/javascript.svg" height="35" width="auto" /></a>
   &nbsp;
+   <a href="https://www.typescriptlang.org/" title="Typescript"><img src="svgs/typescript.svg" height="35" width="auto" /></a>
+  &nbsp;
   <a href="https://nodejs.org/en/" title="Node.js"><img src="svgs/nodejs.svg" height="35" width="auto" /></a>
   &nbsp;
   <a href="https://git-scm.com" title="Git"><img src="svgs/git.svg" height="35" width="auto" /></a>
+  &nbsp;
+   <a href="https://www.docker.com/" title="Docker"><img src="svgs/docker.svg" height="35" width="auto" /></a>
   &nbsp;
   <a href="https://www.adobe.com/products/photoshop.html" title="Adobe Photoshop"><img src="svgs/photoshop.svg" height="35" width="auto" /></a>
 </p>
@@ -38,10 +44,8 @@ Current Project(s): [OneBoard](https://www.notion.so/OneBoard-de636bf19ff84cde83
   <a href="https://zhengteck.me/" title="Website"><img src="svgs/z.svg" height="35" width="auto" /></a>
 </p>
 
-Email: [NUS Computing (Main)](mailto:zhengt@comp.nus.edu.sg) | [Microsoft LSA](mailto:zhengteck.goh@studentambassadors.com)
+Email: [NUS Computing](mailto:zhengt@comp.nus.edu.sg) | [Microsoft Learn Student Ambassadors](mailto:zhengteck.goh@studentambassadors.com)
 <!--
-## Others
-- Crypto News Telegram Channel - [de-crypto-station](https://t.me/decryptostation)
 -->
 <!-- 
 
